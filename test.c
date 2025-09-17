@@ -26,9 +26,9 @@ int main(int argc, const char **argv){
     Beep();
     PrintString("Features some simple functions so far like");
     Pause();
-    PrintString(Blue "Beep()" ColorReset
+    PrintString(Blue "Beep()\n" ColorReset
                 "This is just a simple beep command");
     Pause();
-    PrintString(Green "Pause()" ColorReset
+    PrintString(Green "Pause()\n" ColorReset
                 "This function simply pauses the program and waits for the Enter" Italic "(or Return)" ColorReset" key to be pressed ");
 }
