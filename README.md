@@ -3,7 +3,8 @@
 ---
 C-BAS is a C library that allows BASIC-*like* code to be written in your C program. This is a project mainly made for fun and to help me make little text based programs easier.
 
-Files
+#### Files
+  
   `cbas.h`  -  The library header file
   
   `test.c`  -  The C-BAS "Demo" source file
